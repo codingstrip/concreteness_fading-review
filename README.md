@@ -1,6 +1,6 @@
 # Concreteness Fading (Literature Review)
 
-For comprehensive literature review, we conducted a systematic search with six research databases covering all potential disciplines: computing (ACM Digital Library and IEEE Xplore); Education (ERIC), Multidisciplinary (SCOPUS, Google Scholar, Web of Science). Also, we expanded our search queries beyond "concreteness fading" to include other terminologies, as listed below. 
+For comprehensive review of concreteness fading, we conducted a systematic search with six research databases covering all potential disciplines: computing (ACM Digital Library and IEEE Xplore); Education (ERIC), Multidisciplinary (SCOPUS, Google Scholar, Web of Science). Also, we expanded our search terms beyond "concreteness fading" to ensure that we do not miss any paper that may be relevant and useful. These terms are listed below under keywords. 
 
 ## Keywords
 - concreteness fading
@@ -60,6 +60,9 @@ NOTE: The number of papers after removing redundant papers is 6,613 papers. Besi
 
 ## Support
 - Please feel free to make any suggestions or comments about the collected papers [here](https://github.com/sanghosuh/concreteness_fading-review/issues).
+
+## Reference
+1. Opportunities for Concreteness Fading in Computing Education.
 
 ## Contact
 - sh31659@gmail.com 
